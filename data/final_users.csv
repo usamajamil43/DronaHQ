@@ -1,0 +1,36 @@
+userId,cuisine_preference,rating_preference,price_range,latitude,longitude
+1,"Thai, Mediterranean",2.8,247,25.715388,-80.297547
+2,"Mexican, Mediterranean",2.6,241,25.844825,-80.249504
+3,Chinese,4.2,154,25.786553,-80.16271
+4,"French, Japanese, Mediterranean",2.8,223,25.712777,-80.250362
+5,"Indian, Italian",3.4,152,25.744603,-80.182295
+6,Indian,3.6,210,25.842139,-80.258442
+7,Italian,2.6,221,25.73598,-80.189602
+8,"Indian, Thai, Mexican",3.7,217,25.743689,-80.253705
+9,"Japanese, French, Mexican",3.2,170,25.818174,-80.174988
+10,Italian,1.7,192,25.836262,-80.134674
+11,"Thai, Mexican",2.9,200,25.789257,-80.135152
+12,"Spanish, Thai, Mediterranean",1.3,179,25.80496,-80.111465
+13,"Indian, Italian, Mexican",1.9,198,25.833413,-80.153093
+14,"Mediterranean, Italian",4.1,229,25.849936,-80.165544
+15,"Chinese, French",3.5,160,25.770575,-80.169698
+16,"American, Mediterranean",3.7,151,25.845358,-80.205998
+17,"French, Spanish",1.1,187,25.749471,-80.161265
+18,"Spanish, Italian",3.6,237,25.747178,-80.235345
+19,"Mediterranean, Thai",3.5,188,25.761987,-80.262483
+20,"Thai, Mediterranean",1.5,246,25.730534,-80.190156
+21,Spanish,2.6,235,25.806467,-80.23785
+22,"Mexican, Chinese",3.0,197,25.848839,-80.117414
+23,"Thai, Japanese",2.8,188,25.776331,-80.245315
+24,"Chinese, Mexican, Indian",4.1,219,25.757538,-80.115626
+25,"Italian, Indian",3.9,243,25.750981,-80.142457
+26,"American, Mediterranean",3.2,161,25.829789,-80.210691
+27,Japanese,3.3,245,25.768302,-80.235645
+28,"Thai, French",2.5,175,25.828402,-80.217845
+29,"Mediterranean, American, Mexican",4.5,223,25.774299,-80.292596
+30,Chinese,2.6,245,25.714957,-80.117912
+31,"American, French",3.6,193,25.711224,-80.143695
+32,"American, Thai",4.5,152,25.827851,-80.128132
+33,"Indian, Japanese, Mexican",2.7,174,25.792619,-80.253046
+34,Thai,1.7,219,25.814055,-80.159222
+35,Indian,2.4,157,25.835514,-80.290802
